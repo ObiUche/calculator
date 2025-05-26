@@ -7,8 +7,8 @@ first_input = input("Enter number:")
 
 second_input = input("Enter numeber:")
 
-x = int(first_input)
-y = int(second_input)
+x = float(first_input)
+y = float(second_input)
 
 command = input("type your command for add, sub, mul, div:")
 
