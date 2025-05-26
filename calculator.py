@@ -5,7 +5,7 @@ y = 0
 
 first_input = input("Enter number:")
 
-second_input = input("Enter numeber:")
+second_input = input("Enter number:")
 
 x = float(first_input)
 y = float(second_input)
